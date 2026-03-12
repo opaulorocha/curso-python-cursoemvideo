@@ -1,13 +1,21 @@
-# Curso Python 3 – Mundo 1 (Curso em Vídeo)
+# Curso Python 3 – Curso em Vídeo
 
-Este repositório contém os exercícios e práticas realizadas
-durante o curso Python 3 Mundo 1, do professor Gustavo Guanabara.
+Exercícios realizados durante o curso de Python do professor Gustavo Guanabara.
 
-Conteúdos estudados:
+## Conteúdo
+
+### Mundo 1 – Fundamentos
 - Entrada e saída de dados
 - Tipos primitivos
 - Operadores
 - Condições (if/else)
-- Manipulação básica de strings
+- Manipulação de strings
 
-Curso finalizado com objetivo de consolidar lógica de programação.
+### Mundo 2 – Estruturas de Controle
+- Condições compostas
+- Estruturas de repetição (for e while)
+
+### Mundo 3 – Estruturas Compostas
+- Listas
+- Tuplas
+- Dicionários
