@@ -3,9 +3,9 @@ Este repositório contém os exercícios e práticas realizadas durante o curso 
 
 Conteúdos estudados:
 
-Entrada e saída de dados
-Tipos primitivos
-Operadores
-Condições (if/else)
-Manipulação básica de strings
-Curso finalizado com objetivo de consolidar lógica de programação.
+- Entrada e saída de dados
+- Tipos primitivos
+- Operadores
+- Condições (if/else)
+- Manipulação básica de strings
+- Curso finalizado com objetivo de consolidar lógica de programação.
